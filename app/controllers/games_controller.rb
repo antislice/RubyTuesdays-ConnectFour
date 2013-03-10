@@ -27,7 +27,7 @@ class GamesController < ApplicationController
     # TODO
   end
 
-  # Creates a game recourse
+  # Creates a game resource
   #
   # @verb POST
   # @path /games
